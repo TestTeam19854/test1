@@ -1,6 +1,11 @@
 package com.ohgiraffer.section01;
 
 public class Test1 {
-    public void test(){}
+
+
+    public static void main(String[] args) {
+
+    }
+
 }
 
